@@ -1,0 +1,2 @@
+openai>=1.35.3
+argparse>=1.4.0
